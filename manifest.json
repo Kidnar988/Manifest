@@ -2,7 +2,7 @@
   "id": "vidbox-online-streaming",
   "name": "VidBox",
   "version": "1.1.0",
-  "manifestURI": "https://your-raw-url/manifest.json",
+  "manifestURI": "https://raw.githubusercontent.com/Kidnar988/Manifest/main/manifest.json",
   "language": "typescript",
   "type": "onlinestream-provider",
   "description": "Extension Seanime pour streamer anime, films et séries TV via vidbox.dev (TMDB-based). Supporte VF, VOSTFR et toutes langues disponibles.",
